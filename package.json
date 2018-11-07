@@ -1,0 +1,23 @@
+{
+  "name": "tail-behaviour",
+  "version": "1.0.0",
+  "description": "explore the behaviour of long tails",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dt-rush/tail-behaviour.git"
+  },
+  "author": "dt-rush",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dt-rush/tail-behaviour/issues"
+  },
+  "homepage": "https://github.com/dt-rush/tail-behaviour#readme",
+  "dependencies": {
+    "mathjs": "^5.2.3",
+    "memoizee": "^0.4.14"
+  }
+}
